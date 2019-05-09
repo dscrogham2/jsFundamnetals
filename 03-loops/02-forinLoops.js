@@ -1,7 +1,7 @@
 //FOR IN LOOPS
 
 //Great for iterating over values in an object
-//The For in statement itrrates a specified variable over al;l the enumberable properties of an object.
+//The For in statement itrrates a specified variable over all the enumberable properties of an object.
 
 
 let student = {

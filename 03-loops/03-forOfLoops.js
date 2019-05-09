@@ -1,6 +1,6 @@
 //FOR OF LOOPS
 
-// The for ... of statement creates aloop iterable over iterable objects, meaning it can numberically lo/ok over these items
+// The for ... of statement creates aloop iterable over iterable objects, meaning it can numberically look over these items
 
 
 let student = {
