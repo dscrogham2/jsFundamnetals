@@ -26,7 +26,7 @@ hi();
 
 
 /*
-Challenge: Given the array, create a function that lists out the vakues individually.
+Challenge: Given the array, create a function that lists out the values individually.
  */
 
 function hi() {

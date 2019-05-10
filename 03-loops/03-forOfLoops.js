@@ -10,8 +10,8 @@ let student = {
     weeek: 1
 };
 for (item of student) {
-    console.log(item);
-}
+    console.log(item)
+};
 
 //Student is not iterable
 

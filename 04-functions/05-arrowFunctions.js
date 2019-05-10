@@ -15,11 +15,11 @@ coffee();
 //Fat arrows dont get hoisted even if you change let to var. Lets you wite on one line.
 
 
-//Consise Body
+//Concise Body
 //Concise bodies do not parantheses, unless you have more than one parameter
 
 let apples = (x) => console.log(`There are ${x} apples and ${y}pears.`);
-apples(10, 5)
+apples(10, 5);
 
 
 
