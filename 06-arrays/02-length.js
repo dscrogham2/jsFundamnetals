@@ -1,13 +1,13 @@
 //Length and others
 
 
-let long = [1, 2, 3, 4, 5, 6, 7, 8, 9, 1]
+let long = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 console.log(long.length)
 
 
-let color = ['blue', 'green', 'yellow', ]
-console.log(colors.lenght) //#
-console.log(colors.toString())
+let color = ['blue', 'green', 'yellow']
+console.log(color.length) //#
+console.log(color.toString())
 
 
 console.log(typeof colors) //object
